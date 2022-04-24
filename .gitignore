@@ -1,3 +1,9 @@
+# Executables folder
+bin/
+
+# vim
+*.swp
+
 # Prerequisites
 *.d
 
