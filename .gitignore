@@ -1,3 +1,6 @@
+# Images
+*.tga
+
 # Executables folder
 bin/
 
